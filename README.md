@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**bfeliz/bfeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am glad you have found your way to my GitHub profile. Feel free to take a look around and check out my repositories. If you have any thoughts or comments, plese share! I am always looking to improve, learn, or just celebrate a job well done :relaxed:
 
-Here are some ideas to get you started:
+If you feel like connecting elsewhere, shoot me a message and request on [LinkedIn](https://www.linkedin.com/in/brittany-crosthwait/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When it comes to coding, I :green_heart::
+
+- The creative aspect!
+- ...and also the problem solving
+- The ability to make software or websites that make life easier for users
+
+When it comes to life outside of coding, I :yellow_heart::
+
+- Reading (if you have any good recommendations let me know!)
+- Yoga
+- Attempting to grow things :herb:
