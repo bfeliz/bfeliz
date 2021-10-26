@@ -14,4 +14,4 @@ When it comes to life outside of coding, I :yellow_heart::
 
 - Reading (if you have any good recommendations let me know!)
 - Yoga
-- Attempting to grow things :herb:
+- :herb: Attempting to grow things
