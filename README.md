@@ -1,6 +1,6 @@
 ### Hello!
 
-I am glad you have found your way to my GitHub profile. Feel free to take a look around and check out my repositories. If you have any thoughts or comments, plese share! I am always looking to improve, learn, or just celebrate a job well done :relaxed:
+I am glad you have found your way to my GitHub profile. Feel free to take a look around and check out my repositories. If you have any thoughts or comments, please share! I am always looking to improve, learn, or just celebrate a job well done :relaxed:
 
 If you feel like connecting elsewhere, shoot me a message and request on [LinkedIn](https://www.linkedin.com/in/brittany-crosthwait/)
 
